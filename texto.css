@@ -1,5 +1,7 @@
 .titulo {
     text-align: center;
+    color: rgb(101, 48, 96)  ;
+    background-color:  rgb(212, 159, 195);
 }
 
 .info {
@@ -16,6 +18,8 @@
 
 .titulocur {
     text-align: center;
+    color: rgb(101, 48, 96);
+    background-color:  rgb(212, 159, 195);
 }
 
 .info3 {
@@ -24,4 +28,24 @@
 
 .titulo3 {
     text-align: center;
+    color: rgb(101, 48, 96)  ;
+    background-color:  rgb(212, 159, 195);
 }
+
+.tablatitulo {
+    text-align: center;
+    color: rgb(101, 48, 96)  ;
+    background-color:  rgb(212, 159, 195);
+}
+
+.tablainfo {
+    text-align: justify;
+    background-color: rgba(219, 199, 237, 0.98);
+}
+
+.tablaencabezado {
+    text-align: center;
+    background-color: rgba(173, 141, 203, 0.81);
+}
+
+#hacer comit en git y añadir tablas.html en bash
