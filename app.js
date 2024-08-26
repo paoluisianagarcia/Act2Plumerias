@@ -3,5 +3,3 @@ console.error("Error");
 alert("Bienvenido a mi pagina");
 
 document.title = "PlumeriaPage";
-
-document2.title = "CuriosidadesPage";
